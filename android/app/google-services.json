@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008946912347",
+    "project_id": "chathtk-27ead",
+    "storage_bucket": "chathtk-27ead.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008946912347:android:433543d0e823d91c3db37e",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EySTVptSV8xLCfWN_YPeJAUOeotVHc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008946912347:android:23987f8e03c9d28a3db37e",
+        "android_client_info": {
+          "package_name": "com.example.youtube_messenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EySTVptSV8xLCfWN_YPeJAUOeotVHc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
